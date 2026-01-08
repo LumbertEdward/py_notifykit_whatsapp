@@ -41,7 +41,7 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/LumbertEdward/py_notifykit_whatsapp.git"
-Repository = "https://github.com/LumbertEdward/py_notifykit_whatsapp.git"
-Issues = "https://github.com/LumbertEdward/py_notifykit_whatsapp.git/issues"
+Homepage = "https://github.com/LumbertEdward/py_notifykit_whatsapp"
+Repository = "https://github.com/LumbertEdward/py_notifykit_whatsapp"
+Issues = "https://github.com/LumbertEdward/py_notifykit_whatsapp/issues"
 
